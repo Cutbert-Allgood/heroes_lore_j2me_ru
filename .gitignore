@@ -1,0 +1,13 @@
+# Файлы игры и все, что из них собрано, в репозиторий не попадают
+*.jar
+*.jad
+game/
+build/
+
+# Python
+__pycache__/
+*.pyc
+
+# Локальное
+text/ru_before_review.txt
+Thumbs.db
